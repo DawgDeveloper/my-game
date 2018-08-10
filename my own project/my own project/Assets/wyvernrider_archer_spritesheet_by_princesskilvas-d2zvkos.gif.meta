@@ -1,0 +1,2636 @@
+fileFormatVersion: 2
+guid: 2b36837622fd3254abbf719c863b40db
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_0
+    21300002: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_1
+    21300004: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_2
+    21300006: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_3
+    21300008: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_4
+    21300010: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_5
+    21300012: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_6
+    21300014: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_7
+    21300016: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_8
+    21300018: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_9
+    21300020: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_10
+    21300022: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_11
+    21300024: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_12
+    21300026: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_13
+    21300028: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_14
+    21300030: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_15
+    21300032: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_16
+    21300034: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_17
+    21300036: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_18
+    21300038: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_19
+    21300040: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_20
+    21300042: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_21
+    21300044: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_22
+    21300046: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_23
+    21300048: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_24
+    21300050: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_25
+    21300052: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_26
+    21300054: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_27
+    21300056: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_28
+    21300058: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_29
+    21300060: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_30
+    21300062: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_31
+    21300064: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_32
+    21300066: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_33
+    21300068: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_34
+    21300070: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_35
+    21300072: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_36
+    21300074: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_37
+    21300076: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_38
+    21300078: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_39
+    21300080: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_40
+    21300082: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_41
+    21300084: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_42
+    21300086: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_43
+    21300088: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_44
+    21300090: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_45
+    21300092: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_46
+    21300094: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_47
+    21300096: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_48
+    21300098: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_49
+    21300100: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_50
+    21300102: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_51
+    21300104: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_52
+    21300106: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_53
+    21300108: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_54
+    21300110: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_55
+    21300112: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_56
+    21300114: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_57
+    21300116: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_58
+    21300118: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_59
+    21300120: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_60
+    21300122: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_61
+    21300124: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_62
+    21300126: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_63
+    21300128: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_64
+    21300130: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_65
+    21300132: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_66
+    21300134: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_67
+    21300136: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_68
+    21300138: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_69
+    21300140: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_70
+    21300142: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_71
+    21300144: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_72
+    21300146: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_73
+    21300148: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_74
+    21300150: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_75
+    21300152: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_76
+    21300154: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_77
+    21300156: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_78
+    21300158: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_79
+    21300160: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_80
+    21300162: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_81
+    21300164: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_82
+    21300166: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_83
+    21300168: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_84
+    21300170: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_85
+    21300172: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_86
+    21300174: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_87
+    21300176: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_88
+    21300178: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_89
+    21300180: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_90
+    21300182: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_91
+    21300184: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_92
+    21300186: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_93
+    21300188: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_94
+    21300190: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_95
+    21300192: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_96
+    21300194: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_97
+    21300196: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_98
+    21300198: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_99
+    21300200: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_100
+    21300202: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_101
+    21300204: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_102
+    21300206: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_103
+    21300208: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_104
+    21300210: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_105
+    21300212: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_106
+    21300214: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_107
+    21300216: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_108
+    21300218: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_109
+    21300220: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_110
+    21300222: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_111
+    21300224: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_112
+    21300226: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_113
+    21300228: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_114
+    21300230: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_115
+    21300232: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_116
+    21300234: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_117
+    21300236: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_118
+    21300238: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_119
+    21300240: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_120
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 421
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce6fa81594d8d84b8bb6761913e9c38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 421
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29d5c3ef1797044eb696807386c1422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 421
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2472931cae4ebe246b6f37f303c27f07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_3
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 421
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9929b21cd78902147a995f957eb2e632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_4
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 421
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877b86838e2eacc449851200b6b32c42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 421
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080d3fcf773962743bc7a40e25248aaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_6
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 421
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56974e93a476e0c46b2c73983f20645a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_7
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 420
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5011ddd8ce9724aad3f388275a5e5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_8
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 421
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0874934b6c8d30543869dab93ef62ca3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 421
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9b6aeef5eeeba4a8552c0da4d2a73b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_10
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 421
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646275e961012ad48870696046b35b5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_11
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 330
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dc6d91f943fb442bc45018d04af2df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 335
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a2b27fe8488a843b9eedc4efd59d56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_13
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 335
+        width: 85
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680839f24f38543419c51d87423923d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_14
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 335
+        width: 85
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e19728e92fff04c8c2bad2cea72e6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_15
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 336
+        width: 85
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28fa7192917de2408b3d3d3cf3aec78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_16
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 337
+        width: 85
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e8b32834efd604d825803901a3f86a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_17
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 336
+        width: 85
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b94624af9ec1ce43acc3749a1a76412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 266
+        width: 85
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ae2af95c3632549b9c175eac1293d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_19
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 267
+        width: 85
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6951712ef4456f54cb968f5f1bcdd791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_20
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 266
+        width: 85
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb0b9e8e83337848b0c8391281b567f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_21
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 258
+        width: 85
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc03289d32b5f8540ad81f2117b8781f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_22
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 264
+        width: 85
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77758f88d331aa44293a7e0e25af68e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_23
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 262
+        width: 85
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4899d15612ddfd4caead0ce6d84b607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_24
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 266
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944d8ebede685f54eb441524c790b30f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 244
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe7ae2e67bdb2f41b9ab8aecc483026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_26
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 244
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a9866ac6e8325468eb87b34ba3e233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_27
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 244
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443c6c675ce876145b9ad52e26c41180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_28
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 244
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21aa577f20b73824d814c3d62d26134a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_29
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 244
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9eb1bc1be1d48540a52791b9343551c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_30
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 243
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2566c2cd1c9326443864fdee0bdad4c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_31
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 244
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01af811ac0d0ee4bb1d176e382bbdd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_32
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 244
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a85c9e903072b346a13961951013046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_33
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 244
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2667e7810a4d8ac4a974c7623e05f564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_34
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 158
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a6a0fc5514f9948999cad449af96bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_35
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 163
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16353edd6803ec4499ad2f4e528ceec8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_36
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 163
+        width: 85
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfd047c2c72437448d7905cea2dcd6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_37
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 163
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ddecf68a3923f4a9afc603944ce0a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_38
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 161
+        width: 85
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacc8b5773a10004580cfc8cb89955d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_39
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 158
+        width: 85
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797d4e0d01f3a1a4a8486422acdd5a49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_40
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 158
+        width: 85
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08df950d3157ec94781e8043226e5672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_41
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 125
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d14a1d2f475dd3478ef57a657fa0227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 125
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1c4120b2d972146aa51eb5a829d499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_43
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 125
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5773560c4aa2c234c993f6452cd15e83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_44
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 121
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b35bb8ce176254b89e03a3ac158603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_45
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 125
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb52a159779f81e418b5a0de1bb24c24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_46
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 129
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33665ab42955f614b879ef512be541fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_47
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 129
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64aa3e69ae3ecd244ba383a5070a312f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_48
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 125
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f0813affccafa4a9f0543f6735c969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_49
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 115
+        width: 211
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8024e5dc9a5884ca7bcfca6b4d4255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_50
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 119
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5196d5ae02bf52c4f99582a5c26f4811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_51
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 119
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b2f34760e80574bbabbfa3cf387a2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_52
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 119
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b780223711110da48bcdb36fc123d25a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_53
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 119
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b63303c2044df48946ec1b57d259c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_54
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 119
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b436cc92cda2644ba9117148853279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_55
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 119
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134169e0aa3cb7b4c801f2ed40560f59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_56
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 119
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7252794930c7012479bde565f4605eb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_57
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 119
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0325f3a265b6ed14b89709c50c930663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_58
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 37
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c4b022ce1c3654ea4097ddff831534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_59
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 43
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95475b777887d04fabfca9f0f59ba17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_60
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 97
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d2e4be76f4acd4cb7703c0f7d2112d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_61
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 91
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f84e2c65d7b8ef49ae2a3f4c87b06e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_62
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 91
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f8846e0dfb7e24eb16342a9f2f5a4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_63
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 91
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc88687f0ff4af40baf84726d88258b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_64
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 95
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ce5d110c1c1cb4487547ccf50b954b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_65
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 95
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25eb0f91bdd2d274bb4e0791b2e30222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_66
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0779dd2b77e7a54ca46df124d4b6412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_67
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 95
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f043b01d1f32c754497d94ba2e06e8c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_68
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 91
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8253ac321f430488a6338553be7a49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_69
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 73
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dc79360f73e2246a9ea724b1b3b94d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_70
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 73
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac12ab79939c1148aa7c3cfbf7126a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_71
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 73
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7ea84f3cccf81458bf1e3a3e58b66b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_72
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 91
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6812768b15d8bf74ca86693845514d09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_73
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 61
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc97b34f4d4d97147a8f6232f6494b51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_74
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 54
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cc2684ea868284cb928c37cf082beb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_75
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 58
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f391a4a7a8c723644bd679f4ccd1b694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_76
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 61
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07839095cda4ce9429e58e1c920778a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_77
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 76
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1124f26e79a2ecd4eb57b0c04b9847e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_78
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 76
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ada0fbe49f26f44e99660eede726eed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_79
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f022cf964f9f1d4cbab956e3ab142da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_80
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c07990c91d42f4fbd0381b657cfbcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_81
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d616bf3df1aab4d4c95e2268589bb3e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_82
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 76
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3b0c60d5212524ca9bab2556ee6621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_83
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 76
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe3356c456bdff41951ead31b6f69d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_84
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 76
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd197926a346f1848a3453bfbca99fa5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_85
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 76
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25285656e0268cc4a8d166ba56149507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_86
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 76
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889687a2e3657cc479080780d9a0e81d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_87
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 75
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac72207db37a8b4f807cc2f25178239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_88
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 76
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d124da1c17722439011ba4d07963fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_89
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce42fa7118f63840b2ef8a10974a368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_90
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 76
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d214c771155f4f849a8bf51ec1c4818d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_91
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cd2e9fc313edd47ba1a20c505aa8f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_92
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34d4b0071b276f4381ada7a1bfdce20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_93
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 76
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c780077718b7941b6750ccfca3d7d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_94
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 75
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21946a5633f50304b9d698ec72e2c738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_95
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 76
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd309102ca4c07e4bb8cd9e17f897555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_96
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387839c113e750140a1ec52b9cccc79f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_97
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213477db0fb4b0b4dbce88817b4b125e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_98
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 76
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f21830284234b4d8d00c052b4caaa4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_99
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 76
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b5bd42b110b564aa3839ac19e27cf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_100
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 76
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b93d9140a9605c4e9d31b618c922d55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_101
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0203562e13970fb4eb5af485db53b3b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_102
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 38
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724e2215f0912be469bfd55070e7f4de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 38
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960a1151d16fa7c48baf1be67615ae38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_104
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4fb6f29b67fc44b9cdb1e20dafd015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_105
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 54
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281c1cc40a4802a4cb92d2a51b2ee2f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_106
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 54
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f653b0376304c1847876f979360ac9d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_107
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 54
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b36a13e1069d6a479e785d093324d69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_108
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 22
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e396d0809bea2c488ffbdaf4b65dd5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_109
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 22
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8e224ba60518847b70c29591a41f8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_110
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 22
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50337209178a7a3409ec2b642661b441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_111
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 22
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2105495d3d06bef4f80be6cdfb87fde3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_112
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 38
+        width: 235
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df534dff2f8f31d47a1e5c8c3dd8160d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_113
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 41
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063a901fed787884c95c2519a0ce694c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_114
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 41
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f65d62c43f2cb45ac13ba0ac05417a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_115
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 41
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef04368b7ecc1148b460a1c8dbec6d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_116
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 41
+        width: 60
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11e5f5c74fd6b848b63e2d54ba8005d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_117
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 41
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb92bec4f45c1a4d831030cd4d22394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_118
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 41
+        width: 40
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0f73d2cb1e8fe47b7d069ebe43acce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_119
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 25
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cdf628f80b4f849b64ba966a2f779a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wyvernrider_archer_spritesheet_by_princesskilvas-d2zvkos_120
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 25
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1675cb45aa37924f8783dd070bb543a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9f90166f73613e248ae9812b9ea5da30
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
